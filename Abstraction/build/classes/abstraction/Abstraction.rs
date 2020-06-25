@@ -1,0 +1,8 @@
+abstraction.TestAbstraction1
+TestAbstraction1
+Circle1
+abstraction.Rectangle
+Shape
+abstraction.Circle1
+Rectangle
+abstraction.Shape
